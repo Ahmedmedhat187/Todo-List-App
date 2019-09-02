@@ -30,3 +30,7 @@ I use in this project:
 12 - Using **ItemTouchHelper** for delete note on **on Swipe**
 
 
+![demo](https://github.com/Ahmedmedhat187/Todo-List-App/blob/master/todolist%20demo.gif)
+
+
+
