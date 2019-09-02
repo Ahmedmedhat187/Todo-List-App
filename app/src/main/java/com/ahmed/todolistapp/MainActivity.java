@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity  implements NoteAdapter.Item
                         int position =  viewHolder.getAdapterPosition();
                         List<NoteModel> noteModels = mAdapter.getNoteEntries();
                         mDataBase.noteDao().deleteNote(noteModels.get(position));
-                        setupViewModel();
                     }
                 });
             }
